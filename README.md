@@ -1,10 +1,15 @@
+## Exper Introduction
+Exper is a journey from a vision and a goal, with practice inclusive of winning and failing, and finally, the finish line, where we work on improving what we built slowly.
 
-## About 
-EXPER came out as an idea for a brand to combine all aspects of my journey.
-It is technically a lemma for Experiment, Experience and Expertise, added with Explore, to the edges of what the world and my own soul has to offer.
-There are services available to monetise all I am capable of and help out the both of us at the same time.
+## Experiment
+Experiment defined based on a vision with steps regarding its completion.
 
-## EXPERIMENT | EXPERIENCE | EXPERTISE | EXPRESS
+## Experience
+Journey through the steps as part of the vision and improve iteratively, with winning and failing, modifying accordingly.
 
+## Expertise
+Completed vision statement, look at the journey and jot down the learning that will carry on to the future, grind more, improvement is timeless.
 
+## Express
+A sidekick to the journey, express music, emotions, journal, life, and more. From one experer to another.
 
